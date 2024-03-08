@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AmeOnCoffe
-- 👀 I’m interested in developing scripts and automation
-- 🌱 I’m currently learning to do more things with python
-  
+- ☕ Hi, I’m @AmeOnCoffee
+- 👀 I’m interested in developing scripts and automation of random tasks
+
+
  
